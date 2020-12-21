@@ -1,0 +1,12 @@
+{
+  "name": "Boombom",
+  "displayName": "Boombom",
+  "expo": {
+    "name": "Boombom",
+    "slug": "Boombom",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
